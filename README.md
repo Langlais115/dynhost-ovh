@@ -6,7 +6,7 @@ This script works with two linux commands : curl and dig.
 If you do not have the dig you must install it from the package "dnsutils" :
 ```sh
 sudo apt-get update
-sudo apt-get install dnsutils
+sudo apt-get install dnsutils curl
 ```
 
 # How to use
