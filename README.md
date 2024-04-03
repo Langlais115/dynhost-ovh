@@ -3,7 +3,7 @@ A simple (cron) script to update DynHost on OVH hosting
 
 # Prerequisites
 This script works with two linux commands : curl and dig.
-If you do not have the dig you must install it from the package "dnsutils" :
+If you do not have the **dig** you must install it from the package "**dnsutils**" :
 ```sh
 sudo apt-get update
 sudo apt-get install dnsutils curl
